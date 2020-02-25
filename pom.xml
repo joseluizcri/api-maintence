@@ -8,11 +8,11 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alura.microservice.loja</groupId>
-	<artifactId>api-maintence</artifactId>
+	<groupId>br.com.joseluizrosajunior.maintence</groupId>
+	<artifactId>maintence</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>api-maintence</name>
-	<description>api-maintence</description>
+	<name>maintence</name>
+	<description>maintence</description>
 
 	<properties>
 		<java.version>1.8</java.version>
